@@ -34,6 +34,10 @@ In this lab, you will perform:
 
    ![github-advisory-database](images/g13.png)
 
+1. Now on the **GitHub Advanced Security**, click on **Enable**.
+ 
+   ![Picture1](./images/ghadvanceenablae.png)
+
 1. Now enable all the dependecy requirments, **Dependency graph**, **Dependabot Alerts**, **Dependabot security updates**, **Grouped security updates**, and **Dependabot version updates** under **Dependabot** if not enabled.
 
    ![github-advisory-database](images/g14.png)
