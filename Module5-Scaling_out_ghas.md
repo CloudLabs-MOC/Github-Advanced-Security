@@ -100,9 +100,9 @@ GitHub webhooks are a mechanism for automatically triggering actions or notifica
 
 1. Click on **+ Create**.
 
-1. From the Create Function App tab, select **Consumption** and select **Next**.
+1. From the Create Function App tab, select **Consumption** and select **Select**.
 
-   ![Picture1](./images/ghas-exercise1-9.png)
+   ![Picture1](./images/Mod5T3S6.png)
 
 1. On the **Basics** tab of Create Function App, provide details as mentioned in the table below and select **Review + create** at the bottom of the page and subsequently click on **Create**.
 
@@ -309,9 +309,9 @@ You can create rulesets to control how users interact with selected branches and
 
    ![Picture1](./images/ghasr1.png)  
 
-1. In the left sidebar, under **"Code and automation,"** click **Repository**, then click on **Rulesets**.
+1. In the left sidebar, under **"Code and automation,"** click **Rules**, then click on **Rulesets**.
 
-   ![Picture1](./images/rulesets.png)    
+   ![Picture1](./images/Mod5T4S4.png)    
 
 1. You can create a ruleset targeting branches, or a ruleset targeting tags.
 
