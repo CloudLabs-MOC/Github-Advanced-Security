@@ -56,6 +56,10 @@ Code scanning in GitHub is a powerful feature designed to enhance the security o
 
    >**Note**: Zoom out of the page if you are unable to see the **Setting**.
 
+1. Now on the **GitHub Advanced Security**, click on **Enable**.
+ 
+   ![Picture1](./images/ghadvanceenablae.png)
+
 1. Scroll down and you will find the **Code Scanning** option. Click on the **Setup** button and we have two options to configure code scanning. That is **Default** and **Advanced** as depicted in the screenshot below. For now, click on **Default**
 
    ![github-advisory-database](images/gb.png)
@@ -91,6 +95,10 @@ Code scanning in GitHub is a powerful feature designed to enhance the security o
 1. In the GitHub repository navigate to **Settings** from the top navigation pane and click on **Code Security and Analysis** under Security.
 
    ![github-advisory-database](images/ga.png)
+
+1. Now on the **GitHub Advanced Security**, click on **Enable**.
+ 
+   ![Picture1](./images/ghadvanceenablae.png)
 
 1. Scroll down and you will find the **Code Scanning** option. Click on the **Setup** button and click on **Advanced**
 
@@ -197,7 +205,10 @@ Code scanning in GitHub is a powerful feature designed to enhance the security o
       ```
 
     ![Picture1](./images/clonerepo.png)
+	>**Note**: If a pop up appears to login, click on Login from borwser and Sign in with GitHub Credentials and on the Authorize GitHub for VS Code page click on the Authorize Visual-Studio-Code.
 
+    ![Picture1](./images/clonerepo4.png)
+   
 1. Go to the **Explorer** in the upper left corner, select **Open Folder**, select the folder you cloned from the **Desktop**, and then click **Select Folder**.
 
     ![Picture1](./images/clonerepo1.png)
