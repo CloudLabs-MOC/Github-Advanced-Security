@@ -94,7 +94,7 @@ Here are some of the components of GitHub Advanced Security:
 
 1. Select **enable** to activate Push Protection.
 
-   ![Picture1](./images/mod2ss2.png)
+   ![Picture1](./images/Mod1T1S12.png)
 
 1. To review, navigate to your repository’s Security tab.
 
