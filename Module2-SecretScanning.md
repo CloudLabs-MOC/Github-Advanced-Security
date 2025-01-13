@@ -60,13 +60,21 @@ Secret scanning automatically scans your entire Git history on all branches pres
 
    ![Code Security Configurations](./images/mod1org5.png)
 
-8. Scroll down to the **Secret Scanning** section. You'll find that all options are enabled by default. However, you have the flexibility to adjust these settings. You can modify the options to **Enable**, **Disable**, or leave them as **Not set** based on our requirements or preferences.
+1. Enable **GitHub Advanced Security** option.
+
+   ![github-advanced-security](images/ghasopt.png)
+
+1. Click on **Enable GitHub Advanced Security for this repository**.
+
+   ![github-advanced-security](images/ghasopt1.png)
+
+9. Scroll down to the **Secret Scanning** section. You'll find that all options are enabled by default. However, you have the flexibility to adjust these settings. You can modify the options to **Enable**, **Disable**, or leave them as **Not set** based on our requirements or preferences.
 
    ![Code Security Configurations](./images/mod1org6a.png)
 
    ![Code Security Configurations](./images/mod1org6b.png)   
 
-9. Leave the **Alerts** option set to **Enable**, and change the remaining options to **Not set**. Finally, click **Save Configurations** to apply your changes.
+10. Leave the **Alerts** option set to **Enable**, and change the remaining options to **Not set**. Finally, click **Save Configurations** to apply your changes.
 
    ![Code Security Configurations](./images/mod1org6.png)
 
@@ -135,6 +143,14 @@ In this lab, Personal Access Tokens (PATs) are used as example secrets to demons
 1. From the left navigation pane, click on **Code Security**.
 
    ![github-advisory-database](images/image1.png)
+
+1. Enable **GitHub Advanced Security** option.
+
+   ![github-advanced-security](images/ghasopt.png)
+
+1. Click on **Enable GitHub Advanced Security for this repository**.
+
+   ![github-advanced-security](images/ghasopt1.png)
 
 1. Scroll down to **Secret Scanning**, click on **enable**.
 
@@ -273,6 +289,14 @@ In this task, you will create and apply a custom secret pattern to detect specif
 1. In the **`ghas-bootcamp-javascript`** repo, there is a secret disclosed in the file **`index.js`**. To discover secrets like this, navigate to the **Settings (1)** tab of the repo, click on **Code security (2)**.
 
    ![](./images/sec14.png)
+
+1. Enable **GitHub Advanced Security** option.
+
+   ![github-advanced-security](images/ghasopt.png)
+
+1. Click on **Enable GitHub Advanced Security for this repository**.
+
+   ![github-advanced-security](images/ghasopt1.png)
 
 1. Scroll down to **Secret Scanning** section and then click on the **New pattern** button.
 
