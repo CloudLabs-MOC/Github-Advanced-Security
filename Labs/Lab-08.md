@@ -103,6 +103,9 @@ When you create a campaign, the campaign tracking view is displayed and the camp
 
    > **Note:** This status will also be reflected on the Security Campaign page, but it may take a few minutes to update.
 
+    >**Note:** Even after sometime if you are not able to see the progress you can feel free to move to the next task/exercise as the progress is dependent on Copilot results this may vary.
+
+
 1. Click on the open alert as metioned below.
 
    ![](../images/a48.png)
@@ -112,6 +115,7 @@ When you create a campaign, the campaign tracking view is displayed and the camp
    ![](../images/a49a.png)
 
    >**Note:** There is a chance that the option to **Commit to new branch** may not appear. In this case, look for the **Generate Fix** option, click on it, and once the fix is generated, you will be able to commit.
+   
 
 1. Select the option to open a pull request, then click **Commit changes**.
 
@@ -141,6 +145,8 @@ When you create a campaign, the campaign tracking view is displayed and the camp
    ![](../images/a52.png)
 
    > **Note:** There is a chance also you can see that you will not be able to close it as the **Copilot Autofix attempted to generate an autofix for this alert, but wasn't able to**. It entirely depends on the type of alert and whether GitHub Copilot is capable of generating a fix for it.
+
+   >**Note:** Even after sometime if you are not able to see the progress you can feel free to move to the next task/exercise as the progress is dependent on Copilot results this may vary.
 
    ![](../images/a53a.png)
 
