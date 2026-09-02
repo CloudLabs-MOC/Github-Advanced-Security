@@ -84,7 +84,7 @@ Secret scanning automatically scans your entire Git history on all branches pres
    
 1. Open the **_index.js_ (1)** file and click the **pencil icon (2)** at the top-right of the code block to edit it. Add **` var secret = "Your-Secret-Value"` (3)** to the code, and click on **Commit changes (4)**.
 
-   >**Note:** Replace **"Your-Secret-Value"** with the secret value copied in the step 3.  
+   >**Note:** Replace **"Your-Secret-Value"** with the PAT value copied in the step 4.  
 
    ![Picture1](../images/indexnew.png)
    
@@ -96,7 +96,7 @@ Secret scanning automatically scans your entire Git history on all branches pres
 
    ![Picture1](../images/allowsecrett1.png)    
 
-1. Then navigate to **Security (1)** from the top menu, expand the **Secret scanning (2)** section, and click on **Default (3)** to view the list of detected secrets. This will display any exposed secrets, such as a **GitHub Personal Access Token (4)**, and show whether it is still valid or publicly leaked.
+1. Then navigate to **Security and quality (1)** from the top menu, expand the **Secret scanning (2)** section, and click on **Default (3)** to view the list of detected secrets. This will display any exposed secrets, such as a **GitHub Personal Access Token (4)**, and show whether it is still valid or publicly leaked.
 
    ![Picture1](../images/img2new.png)
 
@@ -168,7 +168,7 @@ In this task, you will enable push protection to prevent secrets from being comm
    
    ![Picture1](../images/T2S11inew.png)
 
-   >**Note:** Replace **"Your-Secret-Value"** with the secret value copied in the step 8.     
+   >**Note:** Replace **"Your-Secret-Value"** with the PAT value copied in the step 8.     
 
    ![Picture1](../images/index2new.png)    
 

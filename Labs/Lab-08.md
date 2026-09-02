@@ -116,7 +116,7 @@ When you create a campaign, the campaign tracking view is displayed and the camp
    
    >**Note:** If you move to the next alert before completing the previous fix suggestion, you may encounter a message stating that the fix suggestion was discarded due to new code being pushed. In this case, you’ll need to generate the fix again.
 
-1. Navigate to the **ghas-bootcamp-WebGoat** repository from the repository section. Select **Security (1)** from the top menu, then click on **Critical CodeQL alert (2)** under Campaigns. Here, you will see that **One of the alerts havs been closed (3)**.
+1. Navigate to the **ghas-bootcamp-WebGoat** repository from the repository section. Select **Security and quality (1)** from the top menu, then click on **Critical CodeQL alert (2)** under Campaigns. Here, you will see that **One of the alerts havs been closed (3)**.
 
    ![](../images/lab7-campaign.png)
 
@@ -198,7 +198,7 @@ There is a limit of 10 active campaigns. When a campaign is complete, or if you 
 
    - **Delete campaign** to delete the campaign permanently. In the "Delete campaign" dialog, click Delete to confirm that you want to delete the campaign.
 
-      ![](../images/T3S6.png)
+     ![](../images/T3S6.png)
 
 ## Summary
 

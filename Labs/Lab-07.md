@@ -122,7 +122,7 @@ In this task, you will create a new Python file in the repository containing cod
     - Write **Extended Description** – Add a detailed note like **Add app.py with potential SQL Injection vulnerability (2)**.
     - Click the **Commit changes (3)** button to save.
    
-    ![](../images/commit1.png)
+      ![](../images/commit1.png)
 
 7. Verify the file: Ensure that the file is created and the code is correctly saved in your repository.
 
@@ -139,7 +139,7 @@ In this task, you will open the Actions tab, find the CodeQL workflow, and check
    - Ensure that the workflow has run automatically after committing the changes.
    - Click on **Push on main**.
 
-   ![](../images/mod6-task3-step2new.png)
+     ![](../images/mod6-task3-step2new.png)
 
 3. Review the scan results:
    - Click on the latest run of the CodeQL workflow to view the details.
